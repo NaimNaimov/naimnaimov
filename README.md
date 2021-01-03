@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Fullstack WordPress developer.
+I'm a Fullstack developer and Team Lead.
 
 <!--
 **NaimNaimov/naimnaimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
